@@ -1,5 +1,3 @@
 # LinkGamePlug-in
-android link game plug-in based on  mxnet-gluon
-this is an android link game plug-in based on neural network image recognition technology.
-it uses mxnet-gluon framework.
 
+基于深度学习-图像识别的安卓手机游戏外挂
